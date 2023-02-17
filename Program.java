@@ -11,6 +11,9 @@ public class Program {
 		
 		
 		scanner.close()
+		
+		Studente studente= new Studente();
+		
 	}
 
 }
