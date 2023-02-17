@@ -18,7 +18,7 @@ public class Studente {
 			
 		}
 		
-			public void stampaNome3(String nome) {
+	public void stampaNome3(String nome) {
 				
 				System.out.println(nome); 
 		}
