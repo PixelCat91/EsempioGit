@@ -16,6 +16,10 @@ public class Studente {
 			
 			System.out.println(nome);
 			
+		}
+		System.out.println("Dario e Federico vogliono diventare development");
+		
+		
 		
 	}
 }
