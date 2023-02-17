@@ -6,7 +6,7 @@ public class Program {
 		
 		Scanner scanner = new Scanner();
 		
-		System.out.println("Ecco il nome dello studente: ");
+		System.out.println("Ecco il nome dello studente 1: ");
 		String nome = scanner.nextLine();
 		
 		
