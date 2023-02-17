@@ -16,6 +16,7 @@ public class Studente {
 			
 			System.out.println(nome);
 			
+<<<<<<< HEAD
 		}
 		
 		
@@ -24,6 +25,11 @@ public class Studente {
 		System.out.println("Dario e Federico vogliono diventare development");
 		
 		
+=======
+			public void saluta() {
+				System.out.println("CE LA FAREMOOOOOOOOOOOOOOOOOO");
+			}
+>>>>>>> branch 'main' of https://github.com/PixelCat91/EsempioGit.git
 		
 	}
 }
