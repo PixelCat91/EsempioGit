@@ -19,6 +19,6 @@ public class Studente {
 		
 	}
 		public void saluta(Studente s) {
-			System.out.println("ciao "+ s.nome);
+			System.out.println("hellow "+ s.nome);
 		}
 }
