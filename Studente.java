@@ -18,7 +18,7 @@ public class Studente {
 			
 		
 	}
-		public void ciao(Studente s) {
+		public void saluta(Studente s) {
 			System.out.println("ciao "+ s.nome);
 		}
 }
