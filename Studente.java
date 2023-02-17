@@ -6,6 +6,7 @@ public class Studente {
 	public String cognome;
 	public int eta ;
 	public String mat;
+	public int voto;
 	
 	public void stampaNome(String nome) {
 		
@@ -15,11 +16,10 @@ public class Studente {
 		public void stampaNome2(String nome) {
 			
 			System.out.println(nome);
-			
-<<<<<<< HEAD
+		
+		public void studenteVoto(int voto) {
+			System.out.println("sei un fallito"+ voto);
 		}
-		
-		
 		
 		
 		System.out.println("Dario e Federico vogliono diventare development");
