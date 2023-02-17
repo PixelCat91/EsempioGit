@@ -4,12 +4,13 @@ public class Program {
 
 	public static void main(String[] args) {
 		
+		Scanner scanner = new Scanner();
+		
 		System.out.println("Ecco il nome dello studente: ");
+		String nome = scanner.nextLine();
 		
-		Studente s1 = new Studente();
 		
-		
-		System.out.println("Federico");
+		scanner.close()
 	}
 
 }
